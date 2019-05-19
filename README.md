@@ -1,0 +1,1 @@
+#primer entrega, al ejecutarlo escriba el comando "opciones" para que el proyecto se ejecute correctamente.

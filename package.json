@@ -1,0 +1,15 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.1",
+  "description": "primera entrega del curso nodes.js",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arley Reales arleyreales@gmail.com",
+  "license": "ISC"
+}
